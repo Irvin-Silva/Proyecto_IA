@@ -1,6 +1,6 @@
 # Detección de fraudes en transacciones de tarjetas de crédito
 
-<img src="" />
+<img src="https://github.com/Irvin-Silva/Proyecto_IA/blob/main/Baner%20IA.png" />
 
 <p dir="auto"><strong>Integrantes: </strong></p>
 <ul>
