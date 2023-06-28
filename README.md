@@ -2,18 +2,21 @@
 
 <img src="" />
 
-<p dir="auto"><strong>Integrantes </strong></p>
+<p dir="auto"><strong>Integrantes: </strong></p>
 <ul>
 <li>REY RUEDA CRISTHIAN CAMILO</li>
 <li>AVILA CHACON RAMIRO SANTIAGO</li>
 <li>SILVA BAEZ IRVIN AURELIO</li>
 </ul>
-<p dir="auto">El objetivo principal de este proyecto es desarrollar un sistema de predicción de transacciones fraudulentas eficiente y preciso, utilizando técnicas avanzadas de aprendizaje automático y análisis de datos,utilizando datos de transacciones realizadas con tarjetas de crédito en septiembre de 2013 por titulares de tarjetas europeos.</p>
+<p dir="auto"><strong>Objetivo: </strong></p>
+<p dir="auto"> Desarrollar un sistema de predicción de transacciones fraudulentas eficiente y preciso, utilizando técnicas avanzadas de aprendizaje automático y análisis de datos,utilizando datos de transacciones realizadas con tarjetas de crédito en septiembre de 2013 por titulares de tarjetas europeos.</p>
 <ul dir="auto">
+<p dir="auto"><strong>Modelos: </strong></p>
 <li>Naive Gaussian Bayes</li>
 <li>Random Forest</li>
 <li>Support Vector Machine (SVM) </li>
 </ul>
+<p dir="auto"><strong>Dataset: </strong></p>
 <p dir="auto">Dataset de Credit Card Fraud Detection:&nbsp;<a href="https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud">https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud</a></p>
 <p dir="auto">Presentacion Proyecto en Youtube:&nbsp;<a href="">      </a></p>
 <p dir="auto">
