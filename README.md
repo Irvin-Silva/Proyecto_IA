@@ -22,3 +22,9 @@
 <p dir="auto">
 En este proyecto, también utilizaremos redes neuronales con el objetivo de lograr una mejor generalización en comparación con los modelos estadísticos más simples. La capacidad de generalización implica la capacidad de hacer predicciones precisas en un amplio rango de valores. Esto es especialmente importante en nuestro contexto, ya que las causas que afectan la tasa de transacciones fraudulentas pueden variar con el tiempo. Un modelo que se generaliza de manera más efectiva será capaz de adaptarse rápidamente y de manera eficiente a estos cambios, lo que nos permitirá mantener un alto nivel de precisión en la detección de fraudes en diferentes escenarios.</p>
 <p dir="auto">&nbsp;</p>
+<strong>Enlaces importantes: </strong>
+<ul>
+  <ol>Video: <a href="URL">https://youtu.be/XgxFnap6XNU</a> </ol>
+  <ol>Notebook: <a href="Notebook"> https://github.com/Irvin-Silva/Proyecto_IA/blob/main/FinalProjectIA.ipynb </a> </ol>
+  <ol>Repositorio: <a href="Repositorio"> https://github.com/Irvin-Silva/Proyecto_IA </a> </ol>
+</ul>
