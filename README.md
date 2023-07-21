@@ -24,7 +24,7 @@ En este proyecto, también utilizaremos redes neuronales con el objetivo de logr
 <p dir="auto">&nbsp;</p>
 <strong>Enlaces importantes: </strong>
 <ul>
-  <ol>Video: <a href="URL">https://youtu.be/XgxFnap6XNU</a> </ol>
-  <ol>Notebook: <a href="Notebook"> https://github.com/Irvin-Silva/Proyecto_IA/blob/main/FinalProjectIA.ipynb </a> </ol>
-  <ol>Repositorio: <a href="Repositorio"> https://github.com/Irvin-Silva/Proyecto_IA </a> </ol>
+  <li><a href="https://youtu.be/XgxFnap6XNU">Video</a> </li>
+  <li><a href="https://github.com/Irvin-Silva/Proyecto_IA/blob/main/FinalProjectIA.ipynb">Notebook</a> </li>
+  <li><a href="https://github.com/Irvin-Silva/Proyecto_IA">Repositorio</a> </li>
 </ul>
